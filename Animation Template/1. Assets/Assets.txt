@@ -1,0 +1,8 @@
+This folder serves as the main repository for all assets related to the animation project. 
+
+Purpose:
+To maintain a centralized location for all project assets, ensuring easy access and organization.
+
+Organization Tips:
+- Use descriptive names for files and folders to make searching easier.
+- Regularly review and clean up unused assets to keep the folder manageable.

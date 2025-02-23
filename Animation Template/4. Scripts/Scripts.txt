@@ -1,0 +1,3 @@
+This folder is designated for all custom scripts related to the animation project. 
+- Contents: Include any automation scripts, tools, or utilities that assist in the animation process.
+- Purpose: To streamline the workflow by keeping all scripts in one place, making them easy to find and use.

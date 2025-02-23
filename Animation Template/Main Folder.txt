@@ -1,0 +1,24 @@
+Project Title: [Your Animation Project Name]
+
+Welcome to repository! This project is designed to streamline the animation production process using the eli_lab pipeline. Below is a brief overview of the folder structure and its contents.
+
+Project Structure:
+1. Assets: Contains all assets related to the project.
+  - Textures: All texture assets in PNG format, ready for lossless decimation.
+  
+2. Characters: Houses all character rigs and variations for easy access and organization.
+
+3. Scenes: Contains all animation scenes, each saved in separate files for efficient editing and rendering.
+
+4. Scripts: Dedicated to custom scripts that assist in the animation process, including automation tools and utilities.
+
+5. Misc: A catch-all for any files or information that do not fit into the other categories, such as notes or references.
+
+This repository is designed to provide a clear and organized structure for managing animation projects, making it easier for team members to collaborate and maintain productivity.
+
+Getting Started:
+To get started, navigate to the respective folders to find the assets, characters, scenes, scripts, or any miscellaneous information you may need. 
+
+Feel free to modify or expand upon this structure as necessary to suit your specific workflow and project needs.
+
+Happy animating! 🎨✨

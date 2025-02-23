@@ -1,0 +1,3 @@
+This folder is for any files or information that do not fit into the other specified categories. 
+- Contents: This may include notes, references, or any other relevant materials that assist in the project but are not directly part of the pipeline.
+- Purpose: To ensure that all miscellaneous files are stored in a single location, preventing clutter in the main project structure.

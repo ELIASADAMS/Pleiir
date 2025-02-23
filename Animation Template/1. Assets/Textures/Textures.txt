@@ -1,0 +1,4 @@
+This folder contains all texture assets used in the animation project. 
+- Format: The prioritized format for textures is PNG. 
+- Purpose: Textures will be batch processed for lossless decimation.
+- Organization: Ensure all textures are properly named and categorized for easy access.
